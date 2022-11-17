@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "09ac5b80-c109-4b59-9e01-f49ec6e81a91",
+      "name": "Hamza Ussaid",
+      "contactNo": "11111111111",
+      "email": "hamzaussaid9@gmail.com",
+      "password": "Ussaid12345@"
+    },
+    {
+      "id": "67baeeec-8a99-4aa1-bdc0-11571e63e736",
+      "name": "Hamza Ussaid",
+      "contactNo": "11111111111",
+      "email": "new@gmail.com",
+      "password": "Hamza12345@"
+    },
+    {
+      "id": "847f6cdf-9ea9-457b-aa59-ef3f8b6b5081",
+      "name": "Salman",
+      "contactNo": "11111111111",
+      "email": "hamza@gmail.com",
+      "password": "Hamza12345@"
+    }
+  ],
+  "reset": [
+    {
+      "email": "new@gmail.com",
+      "token": "77963f3a-a7d0-45c7-a69a-21a9f9616ab4",
+      "id": 2
+    }
+  ],
+  "Products": [
+    {
+      "id": "1",
+      "ownerId": "09ac5b80-c109-4b59-9e01-f49ec6e81a91",
+      "title": "Product Title 1",
+      "description": "This is the description of the product",
+      "image": "",
+      "category": "A",
+      "price": 250,
+      "discount": 10,
+      "active": true
+    },
+    {
+      "id": "039f5291-700a-4242-8cc4-80d130e2b36d",
+      "ownerId": "09ac5b80-c109-4b59-9e01-f49ec6e81a91",
+      "title": "My title ",
+      "category": "A",
+      "discount": "10",
+      "price": "100",
+      "description": "got some discount",
+      "image": "http://res.cloudinary.com/dsfptwc9x/image/upload/v1668018241/fzoexfuvslgbykohmkfg.jpg",
+      "active": true
+    }
+  ]
+}
